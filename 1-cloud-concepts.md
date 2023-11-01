@@ -3,6 +3,8 @@
 LP: https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/
 
 Identify Cloud Computing benefits, use GASHED:
+Advantages:
+_______________
 
 * Geo-distribution
 * Agility
